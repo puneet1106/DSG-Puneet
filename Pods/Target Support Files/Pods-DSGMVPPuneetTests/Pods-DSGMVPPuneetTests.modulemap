@@ -1,0 +1,6 @@
+framework module Pods_DSGMVPPuneetTests {
+  umbrella header "Pods-DSGMVPPuneetTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
